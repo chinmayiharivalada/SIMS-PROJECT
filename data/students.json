@@ -3,7 +3,7 @@
     "id": 1779296886543,
     "name": "adya",
     "email": "adya@gmail.com",
-    "phone": "2234567892",
+    "phone": "9234567892",
     "dateOfBirth": "2007-01-18",
     "enrollmentDate": "2026-05-22",
     "createdAt": "2026-05-20T17:08:06.543Z"
@@ -25,5 +25,23 @@
     "dateOfBirth": "2007-01-28",
     "enrollmentDate": "2026-05-19",
     "createdAt": "2026-05-20T17:10:03.803Z"
+  },
+  {
+    "id": 1779300000001,
+    "name": "renee",
+    "email": "renee@gmail.com",
+    "phone": "8765432109",
+    "dateOfBirth": "2007-03-12",
+    "enrollmentDate": "2026-05-20",
+    "createdAt": "2026-05-21T08:00:00.000Z"
+  },
+  {
+    "id": 1779300000002,
+    "name": "nikhil",
+    "email": "nikhil@gmail.com",
+    "phone": "8123456789",
+    "dateOfBirth": "2006-12-05",
+    "enrollmentDate": "2026-05-21",
+    "createdAt": "2026-05-21T08:05:00.000Z"
   }
 ]

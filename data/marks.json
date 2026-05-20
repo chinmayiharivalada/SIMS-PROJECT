@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "id": 1779303000001,
+    "studentId": 1779296886543,
+    "courseId": 1779301000001,
+    "exam": "IA(I)",
+    "marks": 82,
+    "maxMarks": 100,
+    "examDate": "2026-07-15",
+    "createdAt": "2026-05-21T08:25:00.000Z"
+  },
+  {
+    "id": 1779303000002,
+    "studentId": 1779296886543,
+    "courseId": 1779301000002,
+    "exam": "IA(I)",
+    "marks": 74,
+    "maxMarks": 100,
+    "examDate": "2026-07-16",
+    "createdAt": "2026-05-21T08:26:00.000Z"
+  },
+  {
+    "id": 1779303000003,
+    "studentId": 1779296937530,
+    "courseId": 1779301000001,
+    "exam": "IA(I)",
+    "marks": 68,
+    "maxMarks": 100,
+    "examDate": "2026-07-15",
+    "createdAt": "2026-05-21T08:27:00.000Z"
+  },
+  {
+    "id": 1779303000004,
+    "studentId": 1779296937530,
+    "courseId": 1779301000003,
+    "exam": "Midterm",
+    "marks": 91,
+    "maxMarks": 100,
+    "examDate": "2026-07-17",
+    "createdAt": "2026-05-21T08:28:00.000Z"
+  },
+  {
+    "id": 1779303000005,
+    "studentId": 1779297003803,
+    "courseId": 1779301000002,
+    "exam": "Midterm",
+    "marks": 79,
+    "maxMarks": 100,
+    "examDate": "2026-07-16",
+    "createdAt": "2026-05-21T08:29:00.000Z"
+  },
+  {
+    "id": 1779303000006,
+    "studentId": 1779300000001,
+    "courseId": 1779301000001,
+    "exam": "Midterm",
+    "marks": 88,
+    "maxMarks": 100,
+    "examDate": "2026-07-15",
+    "createdAt": "2026-05-21T08:30:00.000Z"
+  },
+  {
+    "id": 1779303000007,
+    "studentId": 1779300000001,
+    "courseId": 1779301000002,
+    "exam": "Midterm",
+    "marks": 85,
+    "maxMarks": 100,
+    "examDate": "2026-07-16",
+    "createdAt": "2026-05-21T08:31:00.000Z"
+  },
+  {
+    "id": 1779303000008,
+    "studentId": 1779300000002,
+    "courseId": 1779301000003,
+    "exam": "Midterm",
+    "marks": 92,
+    "maxMarks": 100,
+    "examDate": "2026-07-17",
+    "createdAt": "2026-05-21T08:32:00.000Z"
+  },
+  {
+    "id": 1779303000009,
+    "studentId": 1779300000002,
+    "courseId": 1779301000001,
+    "exam": "Final",
+    "marks": 89,
+    "maxMarks": 100,
+    "examDate": "2026-11-25",
+    "createdAt": "2026-05-21T08:33:00.000Z"
+  },
+  {
+    "id": 1779303000010,
+    "studentId": 1779296886543,
+    "courseId": 1779301000003,
+    "exam": "Final",
+    "marks": 90,
+    "maxMarks": 100,
+    "examDate": "2026-11-25",
+    "createdAt": "2026-05-21T08:34:00.000Z"
+  }
+]
