@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1779296886543,
+    "name": "adya",
+    "email": "adya@gmail.com",
+    "phone": "2234567892",
+    "dateOfBirth": "2007-01-18",
+    "enrollmentDate": "2026-05-22",
+    "createdAt": "2026-05-20T17:08:06.543Z"
+  },
+  {
+    "id": 1779296937530,
+    "name": "chin",
+    "email": "chinmayiharivalada@gmail.com",
+    "phone": "9876543261",
+    "dateOfBirth": "2006-09-10",
+    "enrollmentDate": "2026-05-18",
+    "createdAt": "2026-05-20T17:08:57.530Z"
+  },
+  {
+    "id": 1779297003803,
+    "name": "akash",
+    "email": "akash@gmail.com",
+    "phone": "9526871924",
+    "dateOfBirth": "2007-01-28",
+    "enrollmentDate": "2026-05-19",
+    "createdAt": "2026-05-20T17:10:03.803Z"
+  }
+]
